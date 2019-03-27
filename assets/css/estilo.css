@@ -1,0 +1,158 @@
+body {
+  padding-top: 1em;
+  position: relative; 
+}
+
+header{
+  background-image: url("../img/bg_hero.png");
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height:35rem;
+  width:100%;
+  padding-top:510px;
+}
+
+.letras_titulo{
+  font-weight: bold;
+  font-size:20px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.titulo_mensajes{
+  font-weight:bold;
+  padding-top:5px;
+  color:#660066;
+  font-size:45px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.mensajes{
+  color:#660066;
+  font-weight:300px;
+  font-size:20px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.color_logo{
+  color:#660066;
+}
+
+.hr2 {
+  border: 0;
+  border-top: 1px solid #999;
+  border-bottom: 1px solid #333; 
+  height:0;
+  width:250px;
+}
+
+.experiencia{
+  height:420px;
+  width:100%;
+  background:#FFFACD;
+}
+
+.experiencia2{
+  height:350px;
+  width:100%;
+  background:#FFFACD;
+}
+
+.portafolio{
+  height:1200px;
+  width:100%;
+  background:#660066;
+}
+
+.mensaje3{
+  font-weight:500px;
+  font-size:20px;
+  font-family: 'Oswald', sans-serif;
+  margin-bottom:35px;
+}
+
+
+.mensajes{
+  color:#660066;
+  font-weight:500px;
+  font-size:27px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.contacto{
+  height:500px;
+  width:100%;
+  background:#FFFFFF;
+  padding:25px;
+}
+
+
+.titulo_experi{
+  font-size:40px;
+  color:#660066;
+  font-family: 'Oswald', sans-serif;
+  font-weight:500;
+  text-align: center;
+}
+
+.titulo_trabajo{
+  font-size:40px;
+  font-family: 'Rubik', sans-serif;
+  font-weight:500;
+  color:#F8F8FF;
+  text-align: center;
+  margin-top: 18px;
+}
+
+.pie{
+  height:170px;
+  width:100%;
+  margin:0px;
+  background:#660066;
+  padding:60px;
+  font-size:37px;
+  
+}
+
+.url{
+  text-decoration: none;
+}
+
+.url:hover {filter: opacity(.3);}
+
+.logo2{
+  font-family:'Oswald', sans-serif;
+  font-size:40px;
+  font-weight: bold;
+  margin-right:35px;
+}
+
+.logo:hover {filter: opacity(.3);}
+.logo2:hover {filter: opacity(.2);}
+
+
+/*.contenedor {overflow:hidden;}*/
+
+/*  MENSAJES */
+.ml9 {
+  text-align:center;
+  font-family: 'Oswald', sans-serif;
+  position: relative;
+  font-weight:200;
+  font-size: 4em;
+}
+
+.ml9 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.ml9 .letter {
+  transform-origin: 50% 100%;
+  display: inline-block;
+  line-height: 1em;
+}
