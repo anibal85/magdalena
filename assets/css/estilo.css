@@ -33,10 +33,6 @@ header{
   font-family: 'Oswald', sans-serif;
 }
 
-.color_logo{
-  color:#660066;
-}
-
 .hr2 {
   border: 0;
   border-top: 1px solid #999;
@@ -45,6 +41,9 @@ header{
   width:250px;
 }
 
+.color_logo{
+  color:#660066;
+}
 .experiencia{
   height:420px;
   width:100%;
@@ -125,6 +124,7 @@ header{
   font-weight: bold;
   margin-right:35px;
 }
+
 
 .logo:hover {filter: opacity(.3);}
 .logo2:hover {filter: opacity(.2);}
